@@ -1,0 +1,21 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="JamPTUI jam-4.txt &lt; jam-4-ptui-in.txt" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="liberica-18" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="MAIN_CLASS_NAME" value="puzzles.jam.ptui.JamPTUI" />
+    <module name="BFSPuzzleSolver2" />
+    <option name="PROGRAM_PARAMETERS" value="data/jam/jam-4.txt" />
+    <option name="REDIRECT_INPUT" value="true" />
+    <option name="INPUT_FILE" value="$PROJECT_DIR$/input/jam-4-ptui-in.txt" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="puzzles.jam.ptui.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

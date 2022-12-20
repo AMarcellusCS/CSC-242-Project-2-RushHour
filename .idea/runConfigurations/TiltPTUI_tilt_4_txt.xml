@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TiltPTUI tilt-4.txt" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="puzzles.tilt.ptui.TiltPTUI" />
+    <module name="BFSPuzzleSolver2" />
+    <option name="PROGRAM_PARAMETERS" value="data/tilt/tilt-4.txt" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="puzzles.tilt.ptui.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

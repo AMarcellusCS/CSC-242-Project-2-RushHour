@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Water 42 70 39 1001" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="liberica-18" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="MAIN_CLASS_NAME" value="puzzles.water.Water" />
+    <module name="BFSPuzzleSolver2" />
+    <option name="PROGRAM_PARAMETERS" value="42 70 39 1001" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
